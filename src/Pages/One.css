@@ -1,0 +1,76 @@
+.page-content {
+    /* min-height: 100vh; */
+    overflow-x: hidden;
+    padding-left: 17rem;
+}
+
+.card {
+    width: 100%;
+    margin: 7px;
+}
+
+.cardbd {
+    background-color: #3F3D56;
+    border-radius: 3px;
+}
+
+.textc {
+    color: #FFAA00;
+}
+
+.dash {
+    display: flex;
+}
+
+.login {
+    display: flex;
+    justify-content: space-around;
+    padding: 160px 0;
+}
+
+.lf2 {
+    width: 400px;
+}
+
+.inputlogin {
+    border: none;
+    background-color: #EBEBEB;
+    margin-bottom: 15px;
+    border-radius: 2px;
+    width: 400px;
+    height: 45px;
+    padding: 12px 20px;
+    font-family: 'Segoe UI';
+}
+
+.inputlogin::placeholder {
+    letter-spacing: 0.5px;
+}
+
+.btn-login {
+    background: repeating-linear-gradient(to right top, #FFAA00, #FFAA00);
+    letter-spacing: 1px;
+}
+
+.col1 {
+    background-color: #FFAA00;
+    height: 50px;
+}
+
+.col2 {
+    background-color: #3F3D56;
+    height: 50px;
+}
+
+.inputlogin:focus {
+    outline: none;
+}
+
+.hals {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cards {
+    width: 580px;
+}

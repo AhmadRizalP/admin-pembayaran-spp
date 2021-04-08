@@ -1,0 +1,75 @@
+.vertical-nav {
+    min-width: 17rem;
+    width: 17rem;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.151);
+    transition: all 0.4s;
+    background-color: #3F3D56;
+}
+
+.new {
+    background-color: white;
+    width: 90%;
+    height: 3px;
+    margin: 5%;
+    opacity: 10%;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #FFAA00;
+    transition: all 0.5s;
+}
+
+.nav2 {
+    overflow-x: hidden;
+    padding-left: 17rem;
+}
+
+.navbar2 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid rgba(223, 223, 223, 0.356);
+    margin: 0px 20px;
+
+}
+
+.searching {
+    margin: 15px 20px;
+}
+
+.searching input {
+    border: none;
+    background-color: #EBEBEB;
+    border-radius: 2px;
+    width: 300px;
+    height: 40px;
+    padding: 12px 20px;
+    font-family: 'Segoe UI';
+}
+
+.searching input:focus {
+    outline: none;
+}
+
+.user {
+    align-items: center;
+    display: flex;
+    margin: 15px 20px;
+}
+
+.user img {
+    border: 2px solid #FFAA00;
+    margin-right: 10px;
+}
+
+.user h6 {
+    margin: 0px;
+    letter-spacing: 0.5px;
+}
