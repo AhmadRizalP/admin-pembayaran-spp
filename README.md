@@ -9,34 +9,38 @@ Tugas akhir dari sekolahan
 Login terdapat dua level setiap orang yang pertama sebagai Admin dan Petugas.
 Admin dapat mengakses semua fitur yang ada, sedangkan Petugas hanya dapat mengakses beberapa fitur yang telah di atur
 
-![image](https://user-images.githubusercontent.com/63836648/116702692-995ba800-a9f3-11eb-9096-a0e95721fd0d.png)
+![Screenshot (531)](https://user-images.githubusercontent.com/63836648/116713538-17717c00-a9ff-11eb-8b01-1400b795b4f9.png)
+
 
 ## Dashboard
 
-![image](https://user-images.githubusercontent.com/63836648/116702715-a24c7980-a9f3-11eb-9d64-062ba3e4a58c.png)
+![Screenshot (532)](https://user-images.githubusercontent.com/63836648/116713559-1d675d00-a9ff-11eb-98b7-430f5880a7cb.png)
+
 
 ## Data Siswa - Kelas - SPP
 
 Petugas hanya dapat melihat datanya saja
 
-![image](https://user-images.githubusercontent.com/63836648/116702754-b2fcef80-a9f3-11eb-8fd8-e383e575cb1d.png)
-![image](https://user-images.githubusercontent.com/63836648/116702785-ba23fd80-a9f3-11eb-9a91-cc5ec964e25f.png)
+![Screenshot (533)](https://user-images.githubusercontent.com/63836648/116713578-222c1100-a9ff-11eb-8c02-9c5d332e05e0.png)
+![Screenshot (537)](https://user-images.githubusercontent.com/63836648/116713603-26f0c500-a9ff-11eb-9b5d-83c3c0c9b64f.png)
+
 
 ## Admin / Petugas
 
 Petugas hanya dapat melihat datanya saja
 
-![image](https://user-images.githubusercontent.com/63836648/116703083-0c651e80-a9f4-11eb-9f90-f468034efbab.png)
-![image](https://user-images.githubusercontent.com/63836648/116703090-0ec77880-a9f4-11eb-93d0-6bb90c3c8504.png)
+![Screenshot (534)](https://user-images.githubusercontent.com/63836648/116713717-40920c80-a9ff-11eb-8207-2890c9be5c43.png)
+![Screenshot (538)](https://user-images.githubusercontent.com/63836648/116713733-44be2a00-a9ff-11eb-938f-939c6068b420.png)
+
 
 ## Tagihan 
 
 Setiap tagihan yang belum masuk ke daftar pembayaran terdapat perbedaan pada statusnya
 
-![image](https://user-images.githubusercontent.com/63836648/116703182-2d2d7400-a9f4-11eb-9b13-c4e43c4939ab.png)
+![Screenshot (535)](https://user-images.githubusercontent.com/63836648/116713759-4ab40b00-a9ff-11eb-9cc7-9e2be29a2c24.png)
 
 ## Pembayaran
 
 Apabila ada pembayaran yang baru saja masuk atau di tambahkan, maka data tersebut dapat dikonfirmasi
 
-![image](https://user-images.githubusercontent.com/63836648/116703211-361e4580-a9f4-11eb-995d-a5d11c351497.png)
+![Screenshot (536)](https://user-images.githubusercontent.com/63836648/116713800-530c4600-a9ff-11eb-85a9-66229722ef35.png)
